@@ -11668,6 +11668,26 @@ PrefabInstance:
       propertyPath: m_Name
       value: PlayerCount
       objectReference: {fileID: 0}
+    - target: {fileID: 4213678409184266487, guid: da0c543aed6d94440ad899aa9b6d57f9, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 10208, guid: 0000000000000000e000000000000000, type: 0}
+    - target: {fileID: 4213678409184266487, guid: da0c543aed6d94440ad899aa9b6d57f9, type: 3}
+      propertyPath: m_RenderMode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4213678409184266487, guid: da0c543aed6d94440ad899aa9b6d57f9, type: 3}
+      propertyPath: m_LengthScale
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4213678409184266487, guid: da0c543aed6d94440ad899aa9b6d57f9, type: 3}
+      propertyPath: m_VelocityScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4213678409184266487, guid: da0c543aed6d94440ad899aa9b6d57f9, type: 3}
+      propertyPath: m_CameraVelocityScale
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: da0c543aed6d94440ad899aa9b6d57f9, type: 3}
 --- !u!1001 &1276927684
